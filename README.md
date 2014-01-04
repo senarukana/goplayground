@@ -1,5 +1,4 @@
-test
+Go play ground
 ====
 
-test
-dddd
+a set of go tiny programs
